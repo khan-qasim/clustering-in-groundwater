@@ -1,4 +1,6 @@
 # Clustering implementation
-This code can help create clusters using Python. It was created for the paper entitled 'Understanding the activity of Radon-222 in a sand dune aquifer of an arid region through the application of machine learning'.
+This code can help create clusters using Python. It was created for the paper entitled 'Understanding the activity of Radon-222 in a sand dune aquifer of an arid region through the application of machine learning'. This can be used for 
 
-It is permitted to use this code, provided that you cite it. For citation please refer to link: https://doi.org/10.1016/j.gsd.2021.100667
+If you use this code in your research, we ask you to cite the following publication
+
+Khan, Q., Alshamsi, D., Hussein, S. and Mohamed, M., 2021. Understanding the activity of Radon-222 in a sand dune aquifer of an arid region through the application of machine learning. Groundw. Sustain. Dev., 15(2021), 100667. Available at: https://doi.org/10.1016/j.gsd.2021.100667
