@@ -1,6 +1,6 @@
 #Python code for the implementation of DBSCAN
 import warnings
-warnings.filterwarnings(’ignore’)
+warnings.filterwarnings('ignore')
 import pandas as pd
 import numpy as np
 from sklearn.preprocessing import StandardScaler
