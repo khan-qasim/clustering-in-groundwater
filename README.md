@@ -1,5 +1,5 @@
 # Clustering implementation
-This code can help create clusters using Python. It was created for the paper entitled 'Understanding the activity of Radon-222 in a sand dune aquifer of an arid region through the application of machine learning'. This can be used for 
+This code can help create clusters using Python. It was created for the paper entitled 'Understanding the activity of Radon-222 in a sand dune aquifer of an arid region through the application of machine learning'. This code is highly useful for creating DBSCAN and kMeans clusters for your datasets.
 
 
 # Citing
