@@ -1,0 +1,10 @@
+cff-version: 1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Khan
+    given-names: Qasim
+    orcid: https://orcid.org/0000-0001-5103-2844
+title: "Understanding the activity of Radon-222 in a sand dune aquifer of an arid region through the application of machine learning"
+version: 1.0
+doi: 10.1016/j.gsd.2021.100667
+date-released: 2021-09-4
